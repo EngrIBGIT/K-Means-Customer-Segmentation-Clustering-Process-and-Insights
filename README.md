@@ -1,6 +1,11 @@
 # K-Means Customer Segmentation: Clustering Process and Insights
 
+***[Notebook Link for K-Means Customer Segmentation](https://github.com/EngrIBGIT/K-Means-Customer-Segmentation-Clustering-Process-and-Insights/blob/main/K_Means%20Customer%20Segmentation%20Analysis_D.ipynb)***
+
+***[K-Means Customer Segmentation Live App Link](https://k-means-customer-segmentation-clustering.onrender.com/)***
+
 This report outlines the K-Means clustering process for customer segmentation, utilizing an unsupervised machine learning technique. The goal is to identify distinct groups of customers based on various attributes such as income, spending behavior, and other demographic factors. This can enable targeted marketing, personalized recommendations, and improved customer relationship management.
+
 
 ## 1. Data Overview
 
@@ -80,6 +85,33 @@ The K-Means clustering process provided valuable insights into the customer base
 - **Targeted Marketing**: Tailoring marketing campaigns for each cluster based on their spending behavior, demographics, and activity levels.
 - **Personalized Offers**: Offering special deals and offers to high-spending customers, while crafting budget-friendly promotions for price-sensitive customers.
 - **Customer Retention**: Engaging inactive customers through strategies like personalized email marketing and loyalty rewards.
+
+
+## Customer Segmentation Resources
+
+### [K-Means Customer Segmentation Live App Link](https://k-means-customer-segmentation-clustering.onrender.com/)
+Explore a live interactive app where you can upload your dataset, customize clustering parameters, and visualize customer segmentation insights. The app allows you to:
+
+1. **Upload your dataset** in `.csv` or `.xlsx` format.
+2. **Select features** for clustering, such as `Education`, `Income`, `Age`, etc.
+3. **Customize the number of clusters** and visualize the results using advanced techniques like PCA.
+4. **Download the processed data** and clustering results in formats like Excel, CSV, PDF, or DOC.
+
+This app is user-friendly and ideal for exploring customer behavior patterns to inform marketing and business strategies.
+
+---
+
+### [Notebook Link for K-Means Customer Segmentation](https://github.com/EngrIBGIT/K-Means-Customer-Segmentation-Clustering-Process-and-Insights/blob/main/K_Means%20Customer%20Segmentation%20Analysis_D.ipynb)
+This repository contains the complete Jupyter Notebook used for the K-Means Customer Segmentation analysis. It includes:
+
+1. **Data Preparation**: Cleaning and preprocessing steps for raw datasets.
+2. **Clustering Process**: Implementation of K-Means clustering and parameter tuning.
+3. **Insights and Visualizations**: Detailed insights from clustering, including visualizations and metrics like silhouette scores.
+4. **Code Walkthrough**: Fully documented Python code to replicate the process or adapt it for your own datasets.
+
+Use this notebook to understand the methodology, replicate the analysis, or customize the clustering process for specific needs.
+
+
 
 ## 6. Future Steps
 
