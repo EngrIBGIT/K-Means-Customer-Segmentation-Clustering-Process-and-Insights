@@ -4,6 +4,8 @@ numpy
 matplotlib
 seaborn
 plotly
-scikit-learn
-fpdf
+python-docx
 xlsxwriter
+fpdf
+scikit-learn
+pyxlsb
